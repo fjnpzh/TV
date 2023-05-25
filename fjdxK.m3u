@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml" url-tvg="https://epg.112114.xyz/pp.xml"
 #EXTINF:-1 ,CCTV1
 rtsp://27.148.240.181/PLTV/88888888/224/3221227241/72237896.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7E-URhBZerC1gKSoaA5zOz0Q%7EjGm1nMLk4fAVMkSgAzJBUhzV3FsM_Pwl359x8sMnxSXgVu68DlfTA-ekkvHbrN0qsTFNFNP1nC0XGdLP6Urlgv3Mb4oLsLUCh2Q16OpDKM4%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230523181211%2C1934649%2C220.160.4.155%2C20230523181211%2Curn%3AHuawei%3AliveTV%3AXTV72237895%2C193464920230523181211%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2CEND",ChannelType="1",IsHDChannel="1",PreviewEnable="0",ChannelPurchased="1",ChannelLocked="0",ChannelLogURL="",PositionX="",PositionY="",BeginTime="0",Interval="",Lasting="",ActionType="1",FCCEnable="0",ChannelFCCIP="27.148.240.181",ChannelFCCPort="8027",ChannelFECPort="1024"
 #EXTINF:-1 ,CCTV2
