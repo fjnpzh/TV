@@ -237,8 +237,6 @@ rtsp://27.148.237.40:554/live/ch15121814495018462634.sdp?playtype=1&FccMediaIP=2
 rtsp://27.148.237.40:554/live/ch15121814525633396993.sdp?playtype=1&FccMediaIP=239.61.2.127&FccMediaPort=8756&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15121814525633396993&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldRld2I%2B%2FuBP8oQC8XTVnIeefWyuHcxvbhhuPB5FaYdhL6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
 #EXTINF:-1 ,直播室107
 rtsp://27.148.237.40:554/live/ch15121814541963243413.sdp?playtype=1&FccMediaIP=239.61.2.128&FccMediaPort=8762&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15121814541963243413&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldRld2I%2B%2FuBP8oQC8XTVnIeduRnO0vMcX5C8ihObf5JIU6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
-#EXTINF:-1 ,党建频道2
-rtsp://27.148.237.40:554/live/ch17091309411501864929.sdp?playtype=1&FccMediaIP=239.61.2.170&FccMediaPort=9008&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch17091309411501864929&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldaOQUY2ROKWDGUGMbYSmpa6N0uY%2FoY99XNBr5UIJdhQ06D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
 #EXTINF:-1 ,党建频道
 rtsp://27.148.237.40:554/live/ch17071916133822306922.sdp?playtype=1&FccMediaIP=239.61.2.163&FccMediaPort=8966&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch17071916133822306922&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAslddqldP13WpM682w5yeYyS5NmY4Zu4wbeMVYXS15RrA8O6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
 #EXTINF:-1 ,直播室111
@@ -299,10 +297,6 @@ rtsp://27.148.236.129:554/live/ch22071917132784659632.sdp?FccMediaIP=239.61.3.41
 rtsp://27.148.236.129:554/live/ch22071917151059826959.sdp?FccMediaIP=239.61.3.51&FccMediaPort=9824&vcdnid=001&mediaid=ch22071917151059826959&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPekeIrc4KkC5Ahr4YlDnrUit9cMDB70K8EkwmLkUVUbY50d8RtgP2DayASZlOpMLMaA%3D%3D
 #EXTINF:-1 ,融媒体直播
 rtsp://27.148.236.129:554/live/ch22050916410461364600.sdp?FccMediaIP=239.61.3.58&FccMediaPort=9866&vcdnid=001&mediaid=ch22050916410461364600&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPehJYb2o%2FoQpTsEnfbK3DxUKAZI7B3W92vYJN9Pf2WqbF0d8RtgP2DayASZlOpMLMaA%3D%3D
-#EXTINF:-1 ,马赛克导航1
-rtsp://27.148.236.129:554/live/ch20080318591145689410.sdp?vcdnid=001&mediaid=ch20080318591145689410&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPekH56ch15j6VF4a%2FKEGS%2FuLUO2xqCtzcFqhT9GWbmfFx0d8RtgP2DayASZlOpMLMaA%3D%3D
-#EXTINF:-1 ,马赛克导航2
-rtsp://27.148.236.129:554/live/ch22032217194788269567.sdp?FccMediaIP=239.61.3.54&FccMediaPort=9842&vcdnid=001&mediaid=ch22032217194788269567&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPesAeivHi4Y3K9iKmkpkTBmR9DHQY9Pc3d1M9Roykf%2B3n0d8RtgP2DayASZlOpMLMaA%3D%3D
 #EXTINF:-1 ,CCTV1
 rtsp://27.148.237.40:554/live/ch19092509092090186071.sdp?playtype=1&FccMediaIP=239.61.3.11&FccMediaPort=9584&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch19092509092090186071&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldUp4J1g5c5BeKqIo%2BLv4ewNHPUzl2XNKaasvHev0Tgsp6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
 #EXTINF:-1 ,CCTV1
