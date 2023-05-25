@@ -53,11 +53,11 @@ CCTV17,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226986/index.m3u8
 福建旅游,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
 福建少儿,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227194/index.m3u8
 福建文体,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227188/index.m3u8
-福建乡村振兴公共频道,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227153/index.m3u8
+福建乡村,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227153/index.m3u8
 福建新闻,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227180/index.m3u8
 福建综合,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227149/index.m3u8
-福州广播电视台新闻综合频道,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227157/index.m3u8
-泉州综合频道,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227165/index.m3u8
+福州广播,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227157/index.m3u8
+泉州综合,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227165/index.m3u8
 厦门1套,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226814/index.m3u8
 厦门2套,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226777/index.m3u8
 厦门3套,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226760/index.m3u8
