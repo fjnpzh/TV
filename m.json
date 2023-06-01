@@ -382,7 +382,7 @@
 "lives": [{
     "name":"live",
     "type": 0,
-    "url":"https://raw.githubusercontent.com/fjnpzh/TV/main/dxtv.txt",
+    "url":"https://ghproxy.com/https://raw.githubusercontent.com/fjnpzh/TV/main/dxtv.txt",
     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
     "logo":"https://epg.112114.xyz/logo/{name}.png"
 }],    
