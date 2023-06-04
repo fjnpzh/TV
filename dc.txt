@@ -99,6 +99,10 @@
             "name": "D大"
         }, 
        {
+            "url": "https://itvbox.cc/可视TV/云星日记/仓库.json",
+            "name": "云星日记仓库"
+        }
+	{
             "url": "https://www.agit.ai/n/b/raw/branch/a/b/c.json",
             "name": "ImABC"
         }
