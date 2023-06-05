@@ -5,11 +5,15 @@
             "name": "饭太硬"
         },
         {
-            "url": "https://hutool.ml/tang",
+            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0828.json",
             "name": "唐三"
         },
 	{
-            "url": "https://www.agit.ai/relax/adcc/raw/branch/master/tvbox.json",
+            "url": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "name": "FongMI"
+        },
+	{
+            "url": "http://pandown.pro/tvbox/tvbox.json",
             "name": "巧技"
         },
 	{
@@ -33,7 +37,7 @@
             "name": "俊于"
         },
         {
-            "url": "https://www.agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
             "name": "南风XC"
         },
         {
@@ -65,6 +69,10 @@
             "name": "高山流云js"
         },
 
+        {
+            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "name": "高山流云xyq"
+        },
 
         {
             "url": "https://raw.iqiq.io/liu673cn/box/main/xiaopingguo.json",
