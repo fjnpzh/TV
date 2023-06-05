@@ -98,6 +98,10 @@
             "url": "https://dxawi.github.io/0/0.json",
             "name": "dxawi/github️"
         },
+	{
+            "url": "https://xhdwc.tk/0",
+            "name": "dxawi"
+        },
         {
             "url": "https://download.kstore.space/download/2863/01.txt",
             "name": "潇洒"
