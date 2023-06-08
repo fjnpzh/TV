@@ -78,6 +78,12 @@
             "url": "https://raw.iqiq.io/liu673cn/box/main/xiaopingguo.json",
             "name": "小苹果"
         },
+	{
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/pg/main/%E8%8B%B9%E6%9E%9C%E6%BA%90.json",
+            "name": "新苹果"
+        },
+	
+	
         {
             "url": "https://www.agit.ai/liucn/box/raw/branch/main/m.json",
             "name": "老刘备"
