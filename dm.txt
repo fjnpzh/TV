@@ -1,8 +1,10 @@
 ﻿ { "storeHouse": [ 
 
-{ "sourceName": "💢自用仓库", "sourceUrl": "https://raw.iqiq.io/fjnpzh/TV/main/dc.txt" }, 
-{ "sourceName": "💢自用测试1", "sourceUrl": "https://raw.iqiq.io/fjnpzh/TV/main/1.m3u8" }, 
-{ "sourceName": "🌸自用仓库", "sourceUrl": "https://www.agit.ai/ddx/TVBox/raw/branch/master/d.json" }, 
+{ "sourceName": "💢自用仓库", "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/fjnpzh/TV/main/dc.txt" }, 
+{ "sourceName": "💢自用测试1", "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/fjnpzh/TV/main/1.m3u8" }, 
+{ "sourceName": "💢自用测试2", "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/fjnpzh/TV/main/m.json" }, 
+{ "sourceName": "💢自用测试3", "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json" }, 
+{ "sourceName": "🌸自用仓库", "sourceUrl": "https://www.agit.ai/ddx/TVBox/raw/branch/master/d.json " }, 
 { "sourceName": "🧡多线接口","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/duo.json"},
 { "sourceName": "💚多多优选仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/a.txt"},
 { "sourceName": "💛多多公众仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/b.txt"},
